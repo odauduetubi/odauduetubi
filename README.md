@@ -7,12 +7,10 @@
   📫 How to reach me etubiodaudu@gmail.com<br/>
   ⚡ Fun fact: I am probably not here<br/>
 
-
-  # Tech Stack:
   
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/odaudu-etubi-3b01a3134) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@odaudu_etubi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:etubiodaudu@gmail.com) 
+(https://x.com/@odaudu_etubi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:etubiodaudu@gmail.com) 
 
 # 💻 Tech Stack:
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
