@@ -3,7 +3,7 @@
   
   👀 I’m a mathematics PhD student at UP<br/>
   🌱 My current interest is in cybersecurity, and I’m currently learning linux<br/>
-  💞️ I’m looking to collaborate on things related to my interest (soon)<br/>
+  💞️ I’m looking to collaborate on things related to my interest<br/>
   📫 How to reach me etubiodaudu@gmail.com<br/>
   ⚡ Fun fact: I am probably not here<br/>
 
