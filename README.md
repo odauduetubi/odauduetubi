@@ -1,11 +1,11 @@
-  👋 Hi, I’m Odaudu
+   Hi, I’m Odaudu
 
   
-  👀 I’m a mathematics PhD graduate from the University of Porto<br/>
-  🌱 My current interest is in Data Science, Cybersecurity, and I’m currently learning linux<br/>
-  💞️ I’m looking to collaborate on things related to my interest<br/>
-  📫 How to reach me etubiodaudu@gmail.com<br/>
-  ⚡ Fun fact: I am probably not here<br/>
+   I’m a mathematics PhD graduate from the University of Porto<br/>
+   My current interest is in Data Science, Cybersecurity, and I’m currently learning linux<br/>
+   I’m looking to collaborate on things related to my interest<br/>
+   How to reach me etubiodaudu@gmail.com<br/>
+   Fun fact: I am probably not here<br/>
 
   
 
